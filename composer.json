@@ -13,6 +13,6 @@
         }
     ],
     "require": {
-        "daniellabelle/jessengers_blade":"^1.1"
+        "daniellabelle/jenssegers_blade":"^1.1"
     }
 }
